@@ -5,7 +5,7 @@ Blockchain based secure data transmission for IoUT
 
 -Tools Requeired: NodeJS plateform, Ganache Truffle Suite, MetaMask extension
 -Open in VS Code
-
+-Install Truffle package by using cmd and command is (npm install -g truffle@5.0.2)
 -Database Settings: Server Name (localhost), DatabaseName (MarineIoT), User (sa123), Password (sa123)
 
 Download Project:
